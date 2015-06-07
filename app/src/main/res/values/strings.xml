@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pattubook</string>
+    <string name="date">Date</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_act1">Act1</string>
+    <string name="title_activity_act2">Act2</string>
+</resources>
